@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 def square_matrix_map(matrix=[]):
-    return (list(map (Tambda x: Tist (map (lambda y: y "2, x)), matrix))]
+    return list(map(lambda row: list(map(lambda col: col**2, row)), matrix))
+
