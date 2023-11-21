@@ -1,16 +1,7 @@
 #!/usr/bin/python3
-"""
-Module documentation goes here.
-"""
+"""A module for square"""
+
 
 class Square:
-    """
-    Class documentation goes here.
-    """
-    pass
-
-"""
-Function documentation goes here.
-"""
-def my_function():
+    """Represent a square."""
     pass
