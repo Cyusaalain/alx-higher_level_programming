@@ -25,14 +25,9 @@ $ sudo apt-get install python3
 ```
 
 ## :blue_book: Authors
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
-
-## :mag: License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BennettDixon/holbertonschool-higher_level_programming/blob/master/LICENSE.md) file for details
-
+Cyusa Alain
 
 
 ## :mega: Acknowledgments
 
-* Holberton School (providing guidance)
+* Cyusa Alain
